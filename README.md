@@ -49,9 +49,23 @@ Orchestrator Diagram
                    v
         +----------------------+
         |  Analytics Dashboard |
+## 📄 Documentación General
 
-# QDXO Orchestrator
-# QDXO Orchestrator
+# QDXO-Orchestrator
+A unique orchestration system that allows all transactions to be sent through a single network, integrating multiple wallets and blockchains.
+
+## Demo
+To run the demo:
+
+```bash
+python qdx_demo.py
+
+Demo video: Watch on YouTube🚀 The new Bitcoin of the future: QDXO
+💬 Join the genesis community on Telegram → https://t.me/QDXOchannel (t.me in Bing) (bing.com in Bing)
+
+InnovationQDXO-Orchestrator is the first architecture that enables universal interoperability between wallets and blockchains, reducing risks and simplifying integration.How it worksMultiple wallets → QDXO Node → Blockchains and DAppsEverything flows through a single orchestration network.Security and scalability guaranteed.
+
+Next StepsIntegration with TestNetConnection with MetaMask/DeflyLaunch of the $QDXO token
 
 ## 🚀 Introduction
 QDXO is an orchestration platform designed to integrate data and processes across blockchain and Web3 environments. Its goal is to enable interoperability and provide accessible tools for developers, researchers, and medical projects applying blockchain technology.
