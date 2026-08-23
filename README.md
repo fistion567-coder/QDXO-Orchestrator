@@ -49,7 +49,46 @@ Orchestrator Diagram
                    v
         +----------------------+
         |  Analytics Dashboard |
-        +----------------------+
+
+# QDXO Orchestrator
+# QDXO Orchestrator
+
+## 🚀 Introduction
+QDXO is an orchestration platform designed to integrate data and processes across blockchain and Web3 environments. Its goal is to enable interoperability and provide accessible tools for developers, researchers, and medical projects applying blockchain technology.
+
+## ✨ Key Features
+- Interoperability with multiple wallets (MetaMask, Exodus, Algorand).
+- Lightweight execution on mobile environments using Termux.
+- Support for scientific and medical blockchain projects.
+- Preparation for the launch of the **$QDX** token.
+
+## 🛠 Installation
+Clone the repository and run in your environment:
+```bash
+git clone https://github.com/fistion567-core/QDXO-Orchestrator.git
+cd QDXO-Orchestrator
+
+no PC
+
+pip install qdxo-orchestrator
+On laptop
+./qdxo-start
+
+On Mobile (Android with Termux)
+pkg install qdxo-orchestrator
+
+ Make sure to connect your wallet (Defly, MetaMask, or PeraWallet) before starting QDXO to receive your airdrop tokens.
+
+Example of initial execution:
+python orchestrator.py --init
+
+Token $QDXOInitial Supply: defined for testing and initial distribution.Utility: access to advanced functions within QDXO.Vision: empower medical and scientific projects through blockchain.
+
+RoadmapFull integration with Algorand.Official launch of the $QDX token.Expansion of use cases in health and science.
+
+ContactGitHub: fistion567-coreEmail: fistion567@gmail.com
+
+       +----------------------+
 ## 📑 Step-by-Step Explanation
 
 ## 📄 Step-by-Step Explanation
