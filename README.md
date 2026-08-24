@@ -66,6 +66,38 @@ This shows how QDXO can generate significant growth even in its early stages.
 
 This project is open-source. Contributions are welcome.
 
+# QDXO Whitepaper
+
+## Abstract
+QDXO is a blockchain-based project designed to address the long-term sustainability challenges of Bitcoin and similar cryptocurrencies. By adopting a **hybrid tokenomics model**, QDXO ensures continuous rewards, balanced scarcity, and real-world utility. This whitepaper outlines the architecture, economic model, roadmap, and potential applications of QDXO.
+
+---
+
+## Introduction
+Bitcoin has proven the viability of decentralized digital currencies, but its fixed supply creates long-term issues. Once all coins are mined (around 2140), miners will rely solely on transaction fees, which may reduce incentives and weaken network security. QDXO introduces a hybrid model that combines scarcity with continuous rewards, ensuring both value preservation and validator motivation.
+
+---
+
+## Architecture Overview
+```text
+Clients (Labs/Pharma) ---> QDXO Orchestrator ---> GPU Nodes (A, B, C)
+
+Clients: Laboratories, pharmaceutical companies, or scientific institutions submit computational tasks.QDXO Orchestrator: Smart contract layer that distributes tasks and manages rewards.GPU Nodes: Decentralized computing units that execute tasks and return results.This architecture enables QDXO to serve both financial and scientific purposes, bridging blockchain with medical and research applications.
+
+TokenomicsInitial Supply: 10 million $QDX0.Issuance Model: Hybrid — controlled scarcity with continuous rewards.Distribution:40% Node rewards.30% Staking incentives.20% Liquidity pools (DEX).10% Founder and development reserve.Inflation Control: Gradual reduction of rewards over time, balanced by utility-driven demand.
+
+Roadmap (First 5 Years)Year 1–2: Launch, high rewards for nodes and staking, community growth.Year 3–4: Gradual reduction of rewards, integration into medical/scientific projects, liquidity expansion.Year 5: Hybrid model fully established, stable growth, strong adoption.
+
+Use CasesMedical Research: Secure and decentralized computation for pharmaceutical and clinical studies.Scientific Collaboration: Distributed GPU nodes for large-scale simulations and data analysis.Financial Utility: Staking, liquidity pools, and transaction validation.
+
+Founder BenefitsCredibility and reputation in blockchain innovation.Growing reserve of tokens that increase in value with adoption.Strategic flexibility to adjust rewards and issuance.A differentiated narrative: “QDXO, the blockchain that learned from Bitcoin’s weaknesses.”
+
+Projection ExampleInitial reserve: 10 million $QDX0.Initial price: $0.01 USD → $100,000 USD.After 90 days (price $0.05 USD): $500,000 USD.This demonstrates the potential for rapid growth during early adoption.
+
+ConclusionQDXO represents a new generation of blockchain projects that combine financial sustainability with real-world utility. By learning from Bitcoin’s limitations and integrating scientific applications, QDXO positions itself as a credible, impactful, and future-proof ecosystem.
+
+LicenseThis project is open-source. Contributions are welcome.
+
 # QDXO-Orchestrator
 
 QDXO is a blockchain-based project designed to combine sustainability, accessibility, and innovation. Unlike Bitcoin, which faces long-term challenges due to its fixed supply, QDXO adopts a **hybrid model** that ensures continuous rewards and long-term stability.
