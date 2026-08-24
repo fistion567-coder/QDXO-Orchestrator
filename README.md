@@ -18,6 +18,54 @@
 ### 📌 Explanation
 The **QDX‑Orchestrator** receives an algorithm, splits it into three GPU nodes for parallel processing, consolidates the partial results, and applies a consensus filter that ensures integrity and fraud detection before releasing the final output.
 
+# QDXO Orchestrator
+
+QDXO is a blockchain-based project designed to combine sustainability, accessibility, and innovation. Unlike Bitcoin, which faces long-term challenges due to its fixed supply, QDXO adopts a **hybrid model** that ensures continuous rewards and long-term stability.
+
+## 🔹 Key Features
+
+- **Node Rewards**: Users running nodes receive $QDX0 as incentives for validating transactions, similar to Bitcoin miners.
+- **Staking Model**: Participants who lock their tokens to secure the network earn periodic payments.
+- **Liquidity in DEX**: Liquidity providers in pools can earn commissions, expanding the ways to obtain coins.
+- **Hybrid Tokenomics**: Controlled issuance with sustainable rewards, avoiding inflation while ensuring long-term incentives.
+
+## 🔹 Why Hybrid?
+
+Bitcoin will eventually stop issuing new coins (around 2140), leaving miners dependent only on transaction fees. QDXO solves this by combining:
+- Moderate scarcity (to protect value).
+- Constant rewards (to keep validators motivated).
+- Real-world utility (medical, scientific, and social applications).
+
+## 🔹 Roadmap (First 5 Years)
+
+- **Year 1–2**: Launch, high rewards for nodes and staking, community growth.
+- **Year 3–4**: Gradual reduction of rewards, expansion into medical/scientific projects, liquidity pools.
+- **Year 5**: Hybrid model fully established, stable growth, strong adoption.
+
+## 🔹 Founder Benefits
+
+As the founder, you benefit from:
+- Credibility and reputation in blockchain innovation.
+- A growing reserve of tokens that increase in value with adoption.
+- Strategic flexibility to adjust rewards and issuance.
+- A differentiated narrative: “QDXO, the blockchain that learned from Bitcoin’s weaknesses.”
+
+---
+
+## 📈 Example Projection (First 90 Days)
+
+- Initial reserve: 10 million $QDX0  
+- Initial price: $0.01 USD → $100,000 USD  
+- After 90 days (price $0.05 USD): $500,000 USD  
+
+This shows how QDXO can generate significant growth even in its early stages.
+
+---
+
+## 🔹 License
+
+This project is open-source. Contributions are welcome.
+
 
 ## 📊 Flowchartp
 Orchestrator Diagram
