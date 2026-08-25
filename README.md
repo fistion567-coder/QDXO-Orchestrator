@@ -16,7 +16,7 @@ QDXO is built as a decentralized orchestrator that integrates three main layers:
    - Machine learning models ensure transparency and fairness in decision-making.  
 
 3. **Tokenomics Layer**  
-   - The $QDX token powers incentives, staking, and governance participation.  
+   - The $QDXO token powers incentives, staking, and governance participation.  
    - Token distribution ensures sustainability and community engagement.  
 
 **System Flow:**  
@@ -24,7 +24,7 @@ Users submit proposals → AI evaluates → Governance votes → Smart contracts
 
 # QDXO Tokenomics
 
-The $QDX token is designed to sustain the ecosystem and incentivize participation.
+The $QDXO token is designed to sustain the ecosystem and incentivize participation.
 
 **Total Supply:** 100,000,000 QDX  
 
