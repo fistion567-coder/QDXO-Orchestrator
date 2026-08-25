@@ -3,6 +3,51 @@ QDXO is a decentralized orchestrator designed to integrate blockchain governance
 
 By combining Web3 infrastructure with DeSci principles, QDXO enables secure collaboration, fair resource allocation, and scalable innovation. This project aims to bridge the gap between science and decentralized technology, creating a sustainable ecosystem where knowledge and impact are rewarded.
 
+# QDXO Architecture
+
+QDXO is built as a decentralized orchestrator that integrates three main layers:
+
+1. **Blockchain Governance Layer**  
+   - Smart contracts manage voting, funding allocation, and project governance.  
+   - Interoperability across multiple chains ensures scalability and resilience.  
+
+2. **Artificial Intelligence Layer**  
+   - AI modules analyze research proposals, optimize resource allocation, and provide predictive insights.  
+   - Machine learning models ensure transparency and fairness in decision-making.  
+
+3. **Tokenomics Layer**  
+   - The $QDX token powers incentives, staking, and governance participation.  
+   - Token distribution ensures sustainability and community engagement.  
+
+**System Flow:**  
+Users submit proposals → AI evaluates → Governance votes → Smart contracts execute funding and rewards.
+
+# QDXO Tokenomics
+
+The $QDX token is designed to sustain the ecosystem and incentivize participation.
+
+**Total Supply:** 100,000,000 QDX  
+
+**Distribution:**  
+- 30% Community & Grants  
+- 25% Research Incentives  
+- 20% Development Team  
+- 15% Liquidity & Partnerships  
+- 10% Reserve Fund  
+
+**Utility:**  
+- Governance voting rights  
+- Staking rewards for long-term holders  
+- Incentives for researchers and contributors  
+- Transaction fees within the QDXO ecosystem  
+
+**Security Measures:**  
+- Anti-inflation mechanisms through capped supply  
+- Smart contract audits for transparency  
+- Vesting schedules for team allocation
+
+[Architecture](ARCHITECTURE.md)[Tokenomics](TOKENOMICS.md)
+
 # QDXO Project: Orchestrator on Solana
 
 ```text
