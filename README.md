@@ -1,3 +1,8 @@
+About QDXO
+QDXO is a decentralized orchestrator designed to integrate blockchain governance, artificial intelligence, and tokenomics into scientific research. Our mission is to empower researchers and medical innovators by providing transparent funding mechanisms, interoperable smart contracts, and community-driven decision-making.
+
+By combining Web3 infrastructure with DeSci principles, QDXO enables secure collaboration, fair resource allocation, and scalable innovation. This project aims to bridge the gap between science and decentralized technology, creating a sustainable ecosystem where knowledge and impact are rewarded.
+
 # QDXO Project: Orchestrator on Solana
 
 ```text
