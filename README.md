@@ -4,6 +4,139 @@ QDXO is a decentralized orchestrator designed to integrate blockchain governance
 
 By combining Web3 infrastructure with DeSci principles, QDXO enables secure collaboration, fair resource allocation, and scalable innovation. This project aims to bridge the gap between science and decentralized technology, creating a sustainable ecosystem where knowledge and impact are rewarded.
 
+<h3>Quick Demo</h3>
+
+<pre id="codeSnippet">
+QDXO orchestrator is running successfully!
+</pre>
+
+<button onclick="copyText()">Copy to clipboard</button>
+
+<script>
+function copyText() {
+  const text = document.getElementById("codeSnippet").innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    alert("Copied to clipboard!");
+  });
+}
+</script>
+
+## Quick Demo
+
+After installation, you can run the orchestrator.  
+If everything is working correctly, you should see:
+
+<pre id="codeSnippet">
+QDXO orchestrator is running successfully!
+</pre>
+<button onclick="copyText()">Copy to clipboard</button>
+<script>
+function copyText() {
+  const text = document.getElementById("codeSnippet").innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    alert("Copied to clipboard!");
+  });
+}
+</script>
+
+<style>
+  #copyButton {
+    background-color: #4CAF50; /* verde elegante */
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+
+  #copyButton:hover {
+    background-color: #45a049; /* tono más oscuro al pasar el mouse */
+  }
+
+  pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+</style>
+
+<pre id="codeSnippet">
+QDXO orchestrator is running successfully!
+</pre>
+<button id="copyButton" onclick="copyText()">Copy to clipboard</button>
+
+<script>
+  function copyText() {
+    const text = document.getElementById("codeSnippet").innerText;
+    navigator.clipboard.writeText(text).then(() => {
+      alert("Copied to clipboard!");
+    });
+  }
+</script>
+
+## Quick Demo
+
+After installation, you can run the orchestrator.  
+If everything is working correctly, you should see the following output:
+
+<style>
+  #copyButton {
+    background-color: #4CAF50; /* elegant green */
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+
+  #copyButton:hover {
+    background-color: #45a049; /* darker shade on hover */
+  }
+
+  pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+</style>
+
+<pre id="codeSnippet">
+QDXO orchestrator is running successfully!
+</pre>
+<button id="copyButton" onclick="copyText()">Copy to clipboard</button>
+
+<script>
+  function copyText() {
+    const text = document.getElementById("codeSnippet").innerText;
+    navigator.clipboard.writeText(text).then(() => {
+      alert("Copied to clipboard!");
+    });
+  }
+</script>
+
+## QDXO Architecture
+
+The QDXO Orchestrator is built on a layered architecture that ensures scalability, transparency, and efficiency.  
+It is composed of three main layers:
+
+### 1. Blockchain Governance Layer
+This layer manages decentralized decision-making and ensures that all orchestrations follow transparent and auditable rules.  
+It provides trust, immutability, and accountability for every process.
+
+### 2. Artificial Intelligence Layer
+The AI layer powers smart orchestration by analyzing data, predicting outcomes, and optimizing workflows.  
+It enables adaptive decision-making and continuous improvement of the orchestrator.
+
+### 3. Data Layer
+The data layer handles secure storage, retrieval, and processing of information.  
+It ensures that the orchestrator can access reliable datasets while maintaining privacy and integrity.
+
 # QDXO Architecture
 
 QDXO is built as a decentralized orchestrator that integrates three main layers:
