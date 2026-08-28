@@ -16,6 +16,26 @@ El objetivo es combinar velocidad y descentralización con cumplimiento legal y 
 QDXO‑Orchestrator is a distributed computation engine designed to securely process medical data on Solana’s blockchain.  
 The goal is to combine speed and decentralization with legal compliance and advanced privacy.
 
+## 🏗️ Arquitectura Técnica / Technical Architecture
+
+### Español
+La arquitectura de **QDXO** se basa en tres capas principales:
+
+1. **Procesamiento off‑chain seguro** → Los historiales médicos se procesan fuera de la blockchain.  
+2. **Publicación on‑chain** → Solo se suben pruebas criptográficas verificables a Solana.  
+3. **Interfaz/API** → Los médicos y usuarios interactúan con el sistema mediante una API segura.
+
+### English
+The architecture of **QDXO** is based on three main layers:
+
+1. **Secure off‑chain processing** → Medical records are processed outside the blockchain.  
+2. **On‑chain publication** → Only verifiable cryptographic proofs are uploaded to Solana.  
+3. **Interface/API** → Doctors and users interact with the system through a secure API.
+
+---
+
+[📋 Copiar este bloque](#)
+
 ---
 
 ## 🏗️ Arquitectura Técnica / Technical Architecture
