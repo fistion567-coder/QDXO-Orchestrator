@@ -15,7 +15,7 @@ Para cumplir con HIPAA y GDPR usamos un enfoque híbrido:
 - Tokenización de identidades → Pacientes representados con identificadores criptográficos.  
 - Consentimiento granular → Control total de los pacientes sobre sus datos.
 
-**Resumen:** El QDX‑Orchestrator publica pruebas criptográficas, no historiales médicos.
+**Resumen:** El QDXO‑Orchestrator publica pruebas criptográficas, no historiales médicos.
 
 ---
 
@@ -28,7 +28,7 @@ To comply with HIPAA and GDPR we use a hybrid approach:
 - Identity tokenization → Patients represented by cryptographic identifiers.  
 - Granular consent → Patients control and revoke data usage permissions.
 
-**Summary:** QDX‑Orchestrator publishes cryptographic proofs, not medical records.
+**Summary:** QDXO‑Orchestrator publishes cryptographic proofs, not medical records.
 
 ---
 
