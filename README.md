@@ -4,6 +4,75 @@ QDXO is a decentralized orchestrator designed to integrate blockchain governance
 
 By combining Web3 infrastructure with DeSci principles, QDXO enables secure collaboration, fair resource allocation, and scalable innovation. This project aims to bridge the gap between science and decentralized technology, creating a sustainable ecosystem where knowledge and impact are rewarded.
 
+# QDX‑Orchestrator
+
+## 📖 Introducción / Introduction
+
+### Español
+QDX‑Orchestrator es un motor de cálculo distribuido diseñado para procesar datos médicos de forma segura en la blockchain de Solana.  
+El objetivo es combinar velocidad y descentralización con cumplimiento legal y privacidad avanzada.
+
+### English
+QDX‑Orchestrator is a distributed computation engine designed to securely process medical data on Solana’s blockchain.  
+The goal is to combine speed and decentralization with legal compliance and advanced privacy.
+
+---
+
+## 🏗️ Arquitectura Técnica / Technical Architecture
+
+- **Procesamiento off‑chain seguro / Secure off‑chain processing**  
+- **Publicación de pruebas criptográficas en Solana / Cryptographic proofs on Solana**  
+- **Interfaz/API para usuarios y médicos / User & medical API interface**
+
+---
+
+## 🔐 Privacidad y Cumplimiento / Privacy & Compliance
+
+### Español
+El proyecto **no almacena historiales médicos en texto plano** en la blockchain pública de Solana.  
+Para cumplir con HIPAA y GDPR usamos un enfoque híbrido:
+
+- **Zero‑Knowledge Proofs** → Validamos cálculos médicos sin revelar datos.  
+- **Criptografía post‑cuántica** → Seguridad a largo plazo frente a ataques futuros.  
+- **Procesamiento off‑chain seguro** → Los historiales se procesan fuera de la blockchain.  
+- **Tokenización de identidades** → Pacientes representados con identificadores criptográficos.  
+- **Consentimiento granular** → Control total de los pacientes sobre sus datos.
+
+**Resumen:** El QDX‑Orchestrator publica pruebas criptográficas, no historiales médicos.
+
+---
+
+### English
+The project **does not store medical records in plain text** on Solana’s public blockchain.  
+To comply with HIPAA and GDPR we use a hybrid approach:
+
+- **Zero‑Knowledge Proofs** → Validate medical computations without revealing data.  
+- **Post‑quantum cryptography** → Long‑term security against future quantum attacks.  
+- **Secure off‑chain processing** → Records are processed off‑chain, only proofs are published.  
+- **Identity tokenization** → Patients represented by cryptographic identifiers.  
+- **Granular consent** → Patients control and revoke data usage permissions.
+
+**Summary:** QDX‑Orchestrator publishes cryptographic proofs, not medical records.
+
+---
+
+[📋 Copiar este bloque](#)
+
+---
+
+## ⚙️ Instalación / Installation
+
+```bash
+git clone https://github.com/tuusuario/qdx-orchestrator.git
+cd qdx-orchestrator
+npm install
+npm run dev
+
+npm run demo
+
+Licencia / LicenseMIT License
+
+
 ## 🔐 Privacidad y Cumplimiento / Privacy & Compliance
 
 ### Español
