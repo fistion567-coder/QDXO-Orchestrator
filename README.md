@@ -1,3 +1,15 @@
+
+# QDXO Orchestrator
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+![Solana](https://img.shields.io/badge/blockchain-Solana-purple)
+
+---
+
+[📋 Copiar este bloque](#)
+
 About QDXO
 
 QDXO is a decentralized orchestrator designed to integrate blockchain governance, artificial intelligence, and tokenomics into scientific research. Our mission is to empower researchers and medical innovators by providing transparent funding mechanisms, interoperable smart contracts, and community-driven decision-making.
