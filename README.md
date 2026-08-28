@@ -6,6 +6,39 @@ By combining Web3 infrastructure with DeSci principles, QDXO enables secure coll
 
 ## 🔐 Privacidad y Cumplimiento / Privacy & Compliance
 
+### Español
+El proyecto **no almacena historiales médicos en texto plano** en la blockchain pública de Solana.  
+Para cumplir con HIPAA y GDPR usamos un enfoque híbrido:
+
+- **Zero‑Knowledge Proofs** → Validamos cálculos médicos sin revelar datos.  
+- **Criptografía post‑cuántica** → Seguridad a largo plazo frente a ataques futuros.  
+- **Procesamiento off‑chain seguro** → Los historiales se procesan fuera de la blockchain.  
+- **Tokenización de identidades** → Pacientes representados con identificadores criptográficos.  
+- **Consentimiento granular** → Control total de los pacientes sobre sus datos.
+
+**Resumen:** El QDX‑Orchestrator publica pruebas criptográficas, no historiales médicos.
+
+---
+
+### English
+The project **does not store medical records in plain text** on Solana’s public blockchain.  
+To comply with HIPAA and GDPR we use a hybrid approach:
+
+- **Zero‑Knowledge Proofs** → Validate medical computations without revealing data.  
+- **Post‑quantum cryptography** → Long‑term security against future quantum attacks.  
+- **Secure off‑chain processing** → Records are processed off‑chain, only proofs are published.  
+- **Identity tokenization** → Patients represented by cryptographic identifiers.  
+- **Granular consent** → Patients control and revoke data usage permissions.
+
+**Summary:** QDXO‑Orchestrator publishes cryptographic proofs, not medical records.
+
+---
+
+[📋 Copiar este bloque](#)
+
+
+## 🔐 Privacidad y Cumplimiento / Privacy & Compliance
+
 El proyecto **no almacena historiales médicos en texto plano** en la blockchain pública de Solana.  
 Para cumplir con HIPAA y GDPR usamos un enfoque híbrido:
 
