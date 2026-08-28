@@ -44,6 +44,50 @@ The architecture of **QDXO** is based on three main layers:
 - **Publicación de pruebas criptográficas en Solana / Cryptographic proofs on Solana**  
 - **Interfaz/API para usuarios y médicos / User & medical API interface**
 
+## 🏗️ Arquitectura Técnica / Technical Architecture
+
+### Español
+**QDXO** se organiza en tres capas principales:
+
+┌──────────────────────────────┐  
+│  Procesamiento Off‑Chain Seguro │  
+│  (Datos médicos cifrados y ZK Proofs) │  
+└───────────────┬──────────────┘  
+                ↓  
+┌──────────────────────────────┐  
+│  Publicación On‑Chain (Solana) │  
+│  (Pruebas criptográficas verificables) │  
+└───────────────┬──────────────┘  
+                ↓  
+┌──────────────────────────────┐  
+│  Interfaz / API Segura │  
+│  (Médicos y usuarios acceden a resultados) │  
+└──────────────────────────────┘  
+
+---
+
+### English
+**QDXO** is organized into three main layers:
+
+┌──────────────────────────────┐  
+│  Secure Off‑Chain Processing │  
+│  (Encrypted medical data and ZK Proofs) │  
+└───────────────┬──────────────┘  
+                ↓  
+┌──────────────────────────────┐  
+│  On‑Chain Publication (Solana) │  
+│  (Verifiable cryptographic proofs) │  
+└───────────────┬──────────────┘  
+                ↓  
+┌──────────────────────────────┐  
+│  Secure Interface / API │  
+│  (Doctors and users access results) │  
+└──────────────────────────────┘  
+
+---
+
+[📋 Copiar este bloque](#)
+
 ---
 
 ## 🔐 Privacidad y Cumplimiento / Privacy & Compliance
