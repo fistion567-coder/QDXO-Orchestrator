@@ -50,6 +50,51 @@ The architecture of **QDXO** is based on three main layers:
 
 ---
 
+## 🚀 Uso con API / API Usage
+
+### Español
+Ejemplo de request ficticio en JSON para enviar datos médicos anonimizados:
+
+```json
+POST /api/qdxo/compute
+Content-Type: application/json
+
+{
+  "patient_id": "anon-12345",
+  "data": {
+    "blood_pressure": "120/80",
+    "cholesterol": "200"
+  },
+  "consent": true
+}
+{
+  "status": "success",
+  "zk_proof": "0xabc123...",
+  "result": {
+    "risk_score": 0.15
+  }
+}
+POST /api/qdxo/compute
+Content-Type: application/json
+
+{
+  "patient_id": "anon-12345",
+  "data": {
+    "blood_pressure": "120/80",
+    "cholesterol": "200"
+  },
+  "consent": true
+}
+
+{
+  "status": "success",
+  "zk_proof": "0xabc123...",
+  "result": {
+    "risk_score": 0.15
+  }
+}
+
+
 ## 🏗️ Arquitectura Técnica / Technical Architecture
 
 - **Procesamiento off‑chain seguro / Secure off‑chain processing**  
