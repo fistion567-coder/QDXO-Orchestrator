@@ -754,3 +754,51 @@ If you want to collaborate, contribute ideas, or learn more about QDX-Orchestrat
 ---
 **Official Ticker:** $QDXO  
 *(Updated to avoid conflict with Quidax Token - QDX)*
+
+## 🛣️ Roadmap
+
+### Español
+Los próximos pasos de **QDXO** incluyen:
+
+- Integrar librerías de **Zero‑Knowledge Proofs**.  
+- Añadir soporte de **criptografía post‑cuántica**.  
+- Desarrollar un **demo funcional** con datos anonimizados.  
+- Extender la **documentación técnica** y ejemplos de uso.  
+- Explorar integración con **programas Colosseum y Superteam de Solana**.
+
+---
+
+### English
+The next steps for **QDXO** include:
+
+- Integrating **Zero‑Knowledge Proofs** libraries.  
+- Adding **post‑quantum cryptography** support.  
+- Building a **functional demo** with anonymized data.  
+- Extending **technical documentation** and usage examples.  
+- Exploring integration with **Solana’s Colosseum and Superteam programs**.
+
+---
+
+[📋 Copiar este bloque](#)
+
+## 🤝 Contribuciones / Contributions
+
+### Español
+Las contribuciones son bienvenidas.  
+- Abre un **issue** para discutir cambios importantes.  
+- Envía un **pull request** con mejoras o correcciones.  
+- Sigue las guías de estilo y documentación del proyecto.  
+
+### English
+Contributions are welcome.  
+- Open an **issue** to discuss major changes.  
+- Submit a **pull request** with improvements or fixes.  
+- Follow the project’s style and documentation guidelines.  
+
+---
+
+[📋 Copiar este bloque](#)
+
+license Mit
+
+licencia Mit
