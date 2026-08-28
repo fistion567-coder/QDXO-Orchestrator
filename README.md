@@ -4,16 +4,16 @@ QDXO is a decentralized orchestrator designed to integrate blockchain governance
 
 By combining Web3 infrastructure with DeSci principles, QDXO enables secure collaboration, fair resource allocation, and scalable innovation. This project aims to bridge the gap between science and decentralized technology, creating a sustainable ecosystem where knowledge and impact are rewarded.
 
-# QDX‑Orchestrator
+# QDXO‑Orchestrator
 
 ## 📖 Introducción / Introduction
 
 ### Español
-QDX‑Orchestrator es un motor de cálculo distribuido diseñado para procesar datos médicos de forma segura en la blockchain de Solana.  
+QDXO‑Orchestrator es un motor de cálculo distribuido diseñado para procesar datos médicos de forma segura en la blockchain de Solana.  
 El objetivo es combinar velocidad y descentralización con cumplimiento legal y privacidad avanzada.
 
 ### English
-QDX‑Orchestrator is a distributed computation engine designed to securely process medical data on Solana’s blockchain.  
+QDXO‑Orchestrator is a distributed computation engine designed to securely process medical data on Solana’s blockchain.  
 The goal is to combine speed and decentralization with legal compliance and advanced privacy.
 
 ---
@@ -38,7 +38,7 @@ Para cumplir con HIPAA y GDPR usamos un enfoque híbrido:
 - **Tokenización de identidades** → Pacientes representados con identificadores criptográficos.  
 - **Consentimiento granular** → Control total de los pacientes sobre sus datos.
 
-**Resumen:** El QDX‑Orchestrator publica pruebas criptográficas, no historiales médicos.
+**Resumen:** El QDXO‑Orchestrator publica pruebas criptográficas, no historiales médicos.
 
 ---
 
@@ -52,7 +52,7 @@ To comply with HIPAA and GDPR we use a hybrid approach:
 - **Identity tokenization** → Patients represented by cryptographic identifiers.  
 - **Granular consent** → Patients control and revoke data usage permissions.
 
-**Summary:** QDX‑Orchestrator publishes cryptographic proofs, not medical records.
+**Summary:** QDXO‑Orchestrator publishes cryptographic proofs, not medical records.
 
 ---
 
@@ -64,7 +64,7 @@ To comply with HIPAA and GDPR we use a hybrid approach:
 
 ```bash
 git clone https://github.com/tuusuario/qdx-orchestrator.git
-cd qdx-orchestrator
+cd qdxo-orchestrator
 npm install
 npm run dev
 
@@ -85,7 +85,7 @@ Para cumplir con HIPAA y GDPR usamos un enfoque híbrido:
 - **Tokenización de identidades** → Pacientes representados con identificadores criptográficos.  
 - **Consentimiento granular** → Control total de los pacientes sobre sus datos.
 
-**Resumen:** El QDX‑Orchestrator publica pruebas criptográficas, no historiales médicos.
+**Resumen:** El QDXO‑Orchestrator publica pruebas criptográficas, no historiales médicos.
 
 ---
 
