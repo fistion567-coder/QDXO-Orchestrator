@@ -41,3 +41,50 @@
 - Prepare QDXO distribution contract.
 - List token on decentralized exchanges.
 - Start global rewards.
+
+# QDXO Roadmap
+
+---
+
+## 🇪🇸 Fases del Proyecto
+1. **Demo Técnico Inicial**  
+   - Simulación básica de nodos.  
+   - Publicación del repositorio en GitHub.  
+
+2. **Documentación y Whitepaper**  
+   - Desarrollo del whitepaper con tokenomics.  
+   - Publicación del waterpaper conceptual.  
+
+3. **Integración con Wallets**  
+   - Conexión con Defly y Pera.  
+   - Pruebas de interoperabilidad.  
+
+4. **Token $QDX**  
+   - Diseño de distribución inicial.  
+   - Lanzamiento en red Solana.  
+
+5. **Expansión y Comunidad**  
+   - Gobernanza descentralizada.  
+   - Incentivos para nodos y usuarios.  
+---
+
+## 🇬🇧 Project Phases
+1. **Initial Technical Demo**  
+   - Basic node simulation.  
+   - Repository published on GitHub.  
+
+2. **Documentation and Whitepaper**  
+   - Development of whitepaper with tokenomics.  
+   - Publication of conceptual waterpaper.  
+
+3. **Wallet Integration**  
+   - Connection with Defly and Pera.  
+   - Interoperability testing.  
+
+4. **$QDX Token**  
+   - Initial distribution design.  
+   - Launch on Solana network.  
+
+5. **Expansion and Community**  
+   - Decentralized governance.  
+   - Incentives for nodes and users.
