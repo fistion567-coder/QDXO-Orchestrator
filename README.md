@@ -999,6 +999,18 @@ The QDXO system flow is organized in five main steps:
 4. **Smart Contract on Solana** → receives validations and manages reward distribution.
 5. **QDXO Rewards** → nodes receive QDXO tokens based on their participation.
 
+## 🇪🇸 Demo técnico bilingüe
+Este es el demo técnico del proyecto **QDXO‑Orchestrator**, ejecutado en Termux desde un dispositivo móvil.  
+Muestra la conexión entre nodos y la verificación de seguridad de cada alias humano, con mensajes en español e inglés.  
+El objetivo es demostrar la portabilidad del entorno y la lógica inicial del sistema antes de integrar wallets y módulos blockchain.  
+📺 Puedes ver el video aquí: [Ver demo en YouTube](https://youtube.com/shorts/UimFeig1PKo?si=hg3fMkgU9sONYCrS)
+
+## 🇬🇧 Bilingual technical demo
+This is the technical demo of the **QDXO‑Orchestrator** project, executed in Termux on a mobile device.  
+It shows node connection and security verification for each human alias, with messages in Spanish and English.  
+The goal is to demonstrate environment portability and the system’s initial logic before integrating wallets and blockchain modules.  
+📺 Watch the video here: [Watch demo on YouTube](https://youtube.com/shorts/UimFeig1PKo?si=hg3fMkgU9sONYCrS)
+
 license Mit
 
 licencia Mit
