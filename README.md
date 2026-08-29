@@ -932,6 +932,26 @@ QDXO-Orchestrator/
 │   # Licencia abierta (ej. MIT) / Open license (e.g., MIT)
 💰 [Rewards Contract](./contracts/rewards.sol)
 
+# 🧩 Arquitectura QDXO
+
+## 🇪🇸 Español
+El flujo del sistema QDXO se organiza en cinco pasos principales:
+
+1. **Usuario** → instala el orquestador en su dispositivo.
+2. **Nodo activo** → el dispositivo se convierte en un nodo que valida tareas.
+3. **Orquestador QDXO** → distribuye las tareas entre nodos y coordina resultados.
+4. **Smart Contract en Solana** → recibe validaciones y gestiona la distribución de recompensas.
+5. **Recompensas QDXO** → los nodos reciben tokens QDXO según su participación.
+
+## 🇬🇧 English
+The QDXO system flow is organized in five main steps:
+
+1. **User** → installs the orchestrator on their device.
+2. **Active Node** → the device becomes a node that validates tasks.
+3. **QDXO Orchestrator** → distributes tasks among nodes and coordinates results.
+4. **Smart Contract on Solana** → receives validations and manages reward distribution.
+5. **QDXO Rewards** → nodes receive QDXO tokens based on their participation.
+
 license Mit
 
 licencia Mit
