@@ -1013,6 +1013,36 @@ The goal is to demonstrate environment portability and the system’s initial lo
 
 ---
 
+---
+
+## 🎯 Objetivo del proyecto / Project Objective
+
+## 🇪🇸
+El objetivo de **QDXO‑Orchestrator** es crear un sistema modular que permita la conexión segura entre nodos humanos y técnicos, integrando verificación bilingüe y portabilidad en dispositivos móviles.  
+Este proyecto busca demostrar cómo la tecnología blockchain puede aplicarse en entornos médicos y científicos, garantizando interoperabilidad y seguridad.
+
+## 🇬🇧
+The objective of **QDXO‑Orchestrator** is to build a modular system enabling secure connections between human and technical nodes, integrating bilingual verification and portability on mobile devices.  
+This project aims to demonstrate how blockchain technology can be applied in medical and scientific environments, ensuring interoperability and security.
+
+---
+
+## 🗺️ Roadmap técnico / Technical Roadmap
+
+## 🇪🇸
+1. Finalizar demo bilingüe básico en Termux ✅  
+2. Integrar wallets (MetaMask, Exodus, Algorand)  
+3. Añadir módulo de seguridad avanzado con cifrado  
+4. Publicar versión beta con interfaz web ligera  
+5. Documentar casos de uso médicos y científicos  
+
+## 🇬🇧
+1. Complete basic bilingual demo in Termux ✅  
+2. Integrate wallets (MetaMask, Exodus, Algorand)  
+3. Add advanced security module with encryption  
+4. Release beta version with lightweight web interface  
+5. Document medical and scientific use cases
+
 ## 📺 Demo en video / Video demo
 
 license Mit
