@@ -1011,6 +1011,10 @@ It shows node connection and security verification for each human alias, with me
 The goal is to demonstrate environment portability and the system’s initial logic before integrating wallets and blockchain modules.  
 📺 Watch the video here: [Watch demo on YouTube](https://youtube.com/shorts/UimFeig1PKo?si=hg3fMkgU9sONYCrS)
 
+---
+
+## 📺 Demo en video / Video demo
+
 license Mit
 
 licencia Mit
