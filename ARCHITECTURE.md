@@ -1,3 +1,36 @@
+# QDXO Architecture
+
+## 🇪🇸 Introducción
+La arquitectura de QDXO está diseñada para orquestar nodos blockchain, simplificar la interoperabilidad y garantizar seguridad descentralizada.
+
+## 🇬🇧 Introduction
+The QDXO architecture is designed to orchestrate blockchain nodes, simplify interoperability, and ensure decentralized security.
+
+## 🏗️ Componentes / Components
+- 🇪🇸 **Nodos Orquestadores**: coordinan la comunicación entre redes.  
+- 🇬🇧 **Orchestrator Nodes**: coordinate communication across networks.  
+
+- 🇪🇸 **Alias Humanos**: identificadores fáciles de usar para usuarios.  
+- 🇬🇧 **Human Aliases**: user-friendly identifiers for participants.  
+
+- 🇪🇸 **Módulo de Seguridad**: validación descentralizada y protección de datos.  
+- 🇬🇧 **Security Module**: decentralized validation and data protection.  
+
+## 🔄 Flujo de Datos / Data Flow
+1. 🇪🇸 El usuario interactúa mediante alias humanos.  
+   🇬🇧 The user interacts through human aliases.  
+2. 🇪🇸 Los nodos orquestadores traducen y enrutan la información.  
+   🇬🇧 Orchestrator nodes translate and route information.  
+3. 🇪🇸 El módulo de seguridad valida y asegura las transacciones.  
+   🇬🇧 The security module validates and secures transactions.  
+
+## 📊 Diagrama Conceptual / Conceptual Diagram
+*(Aquí puedes añadir un diagrama visual en el futuro, mostrando nodos, alias y seguridad conectados.)*
+
+## 🔮 Escalabilidad / Scalability
+- 🇪🇸 Arquitectura modular que permite añadir nuevas redes y servicios.  
+- 🇬🇧 Modular architecture enabling new networks and services.
+
 QDX-Orchestrator/
 │
 ├── LÉAME.md
