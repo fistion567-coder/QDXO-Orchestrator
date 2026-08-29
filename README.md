@@ -893,6 +893,44 @@ Your device becomes an active node in the network,
 providing security, validation, and receiving real rewards.  
 
 Each installation strengthens the ecosystem and increases the token’s value.
+QDXO-Orchestrator/
+│
+├── README.md              
+│   # Documento principal / Main document
+│   # Mensaje clave: "Instala / Install to earn QDXO"
+│
+├── docs/                  
+│   ├── architecture.md    
+│   # Diagrama del orquestador y flujo de recompensas / 
+│   # Orchestrator diagram and reward flow
+│
+│   ├── mining-vs-qdxo.md  
+│   # Comparativo minería clásica vs QDXO / 
+│   # Classic mining vs QDXO comparison
+│
+│   └── faq.md             
+│   # Preguntas frecuentes / Frequently Asked Questions
+│
+├── contracts/             
+│   └── rewards.sol        
+│   # Ejemplo de smart contract en Solana / 
+│   # Example smart contract in Solana
+│
+├── src/                   
+│   ├── orchestrator.js    
+│   # Lógica principal de distribución de tareas / 
+│   # Main orchestration logic
+│
+│   └── utils/             
+│       # Funciones auxiliares (validación, conexión SDK) / 
+│       # Helper functions (validation, SDK connection)
+│
+├── ROADMAP.md             
+│   # Plan de fases / Roadmap: testnet → SDK → comunidad → DEX
+│
+└── LICENSE                
+│   # Licencia abierta (ej. MIT) / Open license (e.g., MIT)
+
 
 license Mit
 
