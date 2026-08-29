@@ -93,24 +93,24 @@
 ---
 
 ## 🇪🇸 Fases del Proyecto (tipo flechas)
-Demo Técnico Inicial → Documentación y Whitepaper → Integración con Wallets → Token $QDX → Expansión y Comunidad
+Demo Técnico Inicial → Documentación y Whitepaper → Integración con Wallets → Token $QDXO → Expansión y Comunidad
 
 ### Detalle
 - Demo Técnico Inicial → Simulación básica de nodos.  
 - Documentación y Whitepaper → Publicación de whitepaper y waterpaper.  
 - Integración con Wallets → Conexión con Defly y Pera.  
-- Token $QDX → Diseño de distribución y lanzamiento en Solana.  
+- Token $QDXO → Diseño de distribución y lanzamiento en Solana.  
 - Expansión y Comunidad → Gobernanza descentralizada e incentivos.  
 
 ---
 
 ## 🇬🇧 Project Phases (arrow style)
-Initial Technical Demo → Documentation and Whitepaper → Wallet Integration → $QDX Token → Expansion and Community
+Initial Technical Demo → Documentation and Whitepaper → Wallet Integration → $QDXO Token → Expansion and Community
 
 ### Detail
 - Initial Technical Demo → Basic node simulation.  
 - Documentation and Whitepaper → Publication of whitepaper and waterpaper.  
 - Wallet Integration → Connection with Defly and Pera.  
-- $QDX Token → Distribution design and launch on Solana.  
+- $QDXO Token → Distribution design and launch on Solana.  
 - Expansion and Community → Decentralized governance and incentives.
 
