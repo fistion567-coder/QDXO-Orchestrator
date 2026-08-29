@@ -6,6 +6,53 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 ![Solana](https://img.shields.io/badge/blockchain-Solana-purple)
 
+# QDXO Orchestrator
+
+## 🚀 Visión
+QDXO es un sistema de orquestación blockchain que busca resolver problemas de interoperabilidad, alias humanos y seguridad descentralizada.
+
+## 📄 Documentación
+- [Waterpaper](./docs/WATERPAPER.md) – visión conceptual y manifiesto del proyecto.  
+- [Whitepaper](./docs/WHITEPAPER.md) – documento técnico y financiero completo.  
+- [Demo técnico](./src/demo_node.py) – simulación básica de conexión de nodos.  
+
+## ⚙️ Instalación
+Instrucciones rápidas para clonar el repo y ejecutar el demo:
+```bash
+git clone https://github.com/usuario/QDXO-Orchestrator.git
+cd QDXO-Orchestrator/src
+python demo_node.py
+
+# QDXO Orchestrator
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+![Solana](https://img.shields.io/badge/blockchain-Solana-purple)
+
+---
+
+## 🇪🇸 Visión
+QDXO es un sistema de orquestación blockchain que busca resolver problemas de interoperabilidad, alias humanos y seguridad descentralizada.
+
+## 🇬🇧 Vision
+QDXO is a blockchain orchestration system designed to solve interoperability issues, human aliasing, and decentralized security.
+
+---
+
+## 📄 Documentación / Documentation
+- [Waterpaper](./docs/WATERPAPER.md) – visión conceptual y manifiesto del proyecto / conceptual vision and project manifesto  
+- [Whitepaper](./docs/WHITEPAPER.md) – documento técnico y financiero completo / full technical and financial document  
+- [Demo técnico](./src/demo_node.py) – simulación básica de conexión de nodos / basic node connection simulation  
+
+---
+
+## ⚙️ Instalación / Installation
+```bash
+git clone https://github.com/fistio/QDXO-Orchestrator.git
+cd QDXO-Orchestrator/src
+python demo_node.py
+
 ---
 
 [📋 Copiar este bloque](#)
