@@ -59,7 +59,7 @@
    - Conexión con Defly y Pera.  
    - Pruebas de interoperabilidad.  
 
-4. **Token $QDX**  
+4. **Token $QDXO**  
    - Diseño de distribución inicial.  
    - Lanzamiento en red Solana.  
 
@@ -81,7 +81,7 @@
    - Connection with Defly and Pera.  
    - Interoperability testing.  
 
-4. **$QDX Token**  
+4. **$QDXO Token**  
    - Initial distribution design.  
    - Launch on Solana network.  
 
