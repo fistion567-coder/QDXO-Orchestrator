@@ -856,6 +856,24 @@ Contributions are welcome.
 
 [📋 Copiar este bloque](#)
 
+# 🔒 Seguridad / Security Policy
+
+### Español
+Si encuentras una vulnerabilidad en **QDXO**:  
+- Por favor abre un **issue privado** o contacta directamente al mantenedor.  
+- No publiques detalles de la vulnerabilidad en público hasta que se haya corregido.  
+- Se agradece la colaboración responsable para mantener la seguridad del proyecto.  
+
+### English
+If you discover a vulnerability in **QDXO**:  
+- Please open a **private issue** or contact the maintainer directly.  
+- Do not publicly disclose details of the vulnerability until it has been fixed.  
+- Responsible collaboration to maintain project security is appreciated.  
+
+---
+
+[📋 Copiar este bloque](#)
+
 license Mit
 
 licencia Mit
