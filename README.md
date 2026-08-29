@@ -874,6 +874,26 @@ If you discover a vulnerability in **QDXO**:
 
 [📋 Copiar este bloque](#)
 
+---
+
+## 🔑 Mensaje clave
+
+👉 **Instala el software para ganar QDXO tokens.**  
+Tu dispositivo se convierte en un nodo activo dentro de la red,  
+aportando seguridad, validación y recibiendo recompensas reales.  
+
+Cada instalación fortalece el ecosistema y revaloriza el token.
+
+---
+
+## 🔑 Key Message
+
+👉 **Install the software to earn QDXO tokens.**  
+Your device becomes an active node in the network,  
+providing security, validation, and receiving real rewards.  
+
+Each installation strengthens the ecosystem and increases the token’s value.
+
 license Mit
 
 licencia Mit
