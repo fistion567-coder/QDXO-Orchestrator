@@ -930,7 +930,7 @@ QDXO-Orchestrator/
 │
 └── LICENSE                
 │   # Licencia abierta (ej. MIT) / Open license (e.g., MIT)
-
+💰 [Rewards Contract](./contracts/rewards.sol)
 
 license Mit
 
