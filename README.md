@@ -8,6 +8,32 @@
 
 # QDXO Orchestrator
 
+## Introducción / Introduction
+QDXO Orchestrator es un proyecto de investigación y desarrollo en blockchain orientado a la conexión y simulación de nodos.  
+QDXO Orchestrator is a blockchain research and development project focused on node connection and simulation.
+
+---
+
+## Instalación / Installation
+1. Clona el repositorio:  
+   Clone the repository:  
+   ```bash
+   git clone https://github.com/fistion567-core/QDXO-Orchestrator.git
+
+cd QDXO-Orchestrator
+python src/demo_node.py
+
+Demo técnico / Technical Demo📹 Video demostrativo del QDXO Orchestrator
+📹 Demonstration video of the QDXO Orchestratorhttps://youtube.com/shorts/g9L2vYZCJSg?si=01pnct4cBBD6wJHaEste video muestra la conexión básica de nodos y la simulación inicial del sistema.
+This video shows the basic node connection and the initial system simulation.
+
+Contribución / ContributionEnvía tus propuestas vía Pull Request.Submit your proposals via Pull Request.Reporta problemas en la sección de Issues.Report issues in the Issues section.
+
+Licencia / LicenseEste proyecto está bajo licencia MIT.
+This project is under MIT license.
+
+# QDXO Orchestrator
+
 ## 🚀 Visión
 QDXO es un sistema de orquestación blockchain que busca resolver problemas de interoperabilidad, alias humanos y seguridad descentralizada.
 
