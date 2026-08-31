@@ -24,7 +24,8 @@ cd QDXO-Orchestrator
 python src/demo_node.py
 
 Demo técnico / Technical Demo📹 Video demostrativo del QDXO Orchestrator
-📹 Demonstration video of the QDXO Orchestratorhttps://youtube.com/shorts/g9L2vYZCJSg?si=01pnct4cBBD6wJHaEste video muestra la conexión básica de nodos y la simulación inicial del sistema.
+📹 Demonstration video of the QDXO Orchestratorhttps://youtube.com/shorts/g9L2vYZCJSg?si=01pnct4cBBD6wJHa Este
+video muestra la conexión básica de nodos y la simulación inicial del sistema. [Ver demo en YouTube / Watch demo on YouTube](https://youtube.com/shorts/g9L2vYZCJSg?si=01pnct4cBBD6wJHa)
 This video shows the basic node connection and the initial system simulation.
 
 Contribución / ContributionEnvía tus propuestas vía Pull Request.Submit your proposals via Pull Request.Reporta problemas en la sección de Issues.Report issues in the Issues section.
