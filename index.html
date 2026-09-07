@@ -1,3 +1,44 @@
+
+## 🗺️ Multi-Wallet Integration Architecture
+
+QDXO actúa como un **orquestador inteligente abstracto**. Los usuarios o agentes no interactúan con cada billetera por separado; en su lugar, envían una única instrucción omnimodal a QDXO, y este coordina la liquidez, las redes y las firmas de forma segura.
+
+```text
+       ┌─────────────────────────────────────────────────────────┐
+       │             Inteligencia Artificial / UI / API          │
+       │       "Transfiere 50 USDC usando la mejor red/fee"      │
+       └────────────────────────────┬────────────────────────────┘
+                                    │
+                                    ▼
+       ┌─────────────────────────────────────────────────────────┐
+       │                  🧠 QDXO ORCHESTRATOR                    │
+       │  • Enrutamiento de Liquidez   • Gestión de Gas / Fees   │
+       │  • Abstracción de Cuentas     • Verificación de Control │
+       └────────────┬───────────────┬────────────────┬───────────┘
+                    │               │                │
+         ┌──────────┴───┐           │           ┌────┴──────────┐
+         ▼              ▼           ▼           ▼               ▼
+   ┌───────────┐  ┌───────────┐ ┌───────────┐ ┌───────────┐  ┌───────────┐
+   │  Metamask │  │ Phantom   │ │ Coinbase  │ │ Safe      │  │ Hardware  │
+   │  (Web3)   │  │ (Solana)  │ │ (Wallet)  │ │ (Multisig)│  │ (Ledger)  │
+   └─────┬─────┘  └─────┬─────┘ └─────┬─────┘ └─────┬─────┘  └─────┬─────┘
+         │              │             │             │              │
+         └──────────────┴─────────────┼─────────────┴──────────────┘
+                                      ▼
+                    ┌──────────────────────────────────┐
+                    │ 🌐 Ecosistema Multichain         │
+                    │    (Ethereum, Solana, Base...)   │
+                    └──────────────────────────────────┘
+```
+
+### ⚙️ Flujo de Operación Unificada
+
+1. **Abstracción Total:** El usuario conecta sus múltiples billeteras a través del SDK de QDXO.
+2. **Capa de Decisión:** Cuando se solicita una acción (ej. un swap o un pago masivo), QDXO analiza los saldos, los costos de gas de cada blockchain y las velocidades de red.
+3. **Firmas en Paralelo:** QDXO genera las cargas útiles (payloads) optimizadas y solicita la firma a las billeteras correspondientes de manera unificada.
+4. **Liquidación:** Ejecuta y confirma las transacciones devolviendo un único estado consolidado.
+
+
 # 🌐 QDXO Orchestrator: The Ultimate Intelligence Director
 
 <p align="center">
