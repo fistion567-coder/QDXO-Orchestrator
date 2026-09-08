@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo-qdxo.png" alt="QDXO Logo" width="400">
-</p>
+
 # QDXO Orchestrator
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
@@ -264,7 +262,7 @@ Content-Type: application/json
 
 - **Procesamiento off‑chain seguro / Secure off‑chain processing**  
 - **Publicación de pruebas criptográficas en Solana / Cryptographic proofs on Solana**  
-- **Interfaz/API para usuarios y médicos / User & medical API interface**
+- **Interfaz/API para usuarios y médicos / User & medierface**
 
 ## 🏗️ Arquitectura Técnica / Technical Architecture
 
