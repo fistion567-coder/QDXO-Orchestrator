@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/logo-qdxo.png" alt="QDXO Logo" width="400">
+</p>
 # QDXO Orchestrator
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
