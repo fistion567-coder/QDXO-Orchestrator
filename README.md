@@ -12,6 +12,95 @@
 QDXO Orchestrator es un proyecto de investigación y desarrollo en blockchain orientado a la conexión y simulación de nodos.  
 QDXO Orchestrator is a blockchain research and development project focused on node connection and simulation.
 
+# 🌐 QDXO‑Orchestrator
+
+## 📑 Índice / Table of Contents
+
+- [Introducción / Introduction](#introducción--introduction)
+- [Tokenomics & Fund Allocation](#-tokenomics--fund-allocation)
+- [Instalación / Installation](#️-instalación--installation)
+- [Uso básico / Basic Usage](#️-uso-básico--basic-usage)
+- [Demo visual / Visual Demo](#-demo-visual--visual-demo)
+- [Licencia y Créditos / License & Credits](#-licencia-y-créditos--license--credits)
+
+# 📌 Tokenomics & Fund Allocation
+
+### Venta privada / Private Sale
+- ES: Definir el porcentaje del supply destinado a inversores iniciales (ej. 10–20%). Establecer precio preferencial y límites por inversor.  
+- EN: Define the percentage of supply allocated to early investors (e.g., 10–20%). Set preferential price and investor caps.  
+
+### Contrato de vesting / Vesting Contract
+- ES: Programar bloqueo de tokens adquiridos en la venta privada. Liberación progresiva en 12–24 meses (mensual o trimestral).  
+- EN: Implement lock-up for tokens acquired in the private sale. Gradual release over 12–24 months (monthly or quarterly).  
+
+### Liquidez inicial / Initial Liquidity
+- ES: Especificar el monto destinado al pool en DEX (ej. Raydium). Ejemplo: 20% de lo recaudado en QDXO/USDC.  
+- EN: Specify the amount allocated to the DEX pool (e.g., Raydium). Example: 20% of raised funds in QDXO/USDC.  
+
+### Uso de fondos / Use of Funds
+- ES: Distribución transparente del capital:  
+  - Liquidez: 20–30%  
+  - Desarrollo: 30–40%  
+  - Marketing: 20–30%  
+  - Reservas: 10–20%  
+- EN: Transparent capital allocation:  
+  - Liquidity: 20–30%  
+  - Development: 30–40%  
+  - Marketing: 20–30%  
+  - Reserves: 10–20%
+
+## ⚙️ Instalación / Installation
+
+### ES
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/QDXO-Orchestrator.git
+   
+cd QDXO-Orchestrator
+
+npm install
+
+git clone https://github.com/youruser/QDXO-Orchestrator.git
+
+cd QDXO-Orchestrator
+
+ básico / Basic UsageES
+npm start
+Acceder al entorno local en http://localhost:3000.ENRun the demo already uploaded:
+npm start
+
+Access the local environment at http://localhost:3000.
+## 🎥 Demo visual / Visual Demo
+
+### ES
+El proyecto ya cuenta con demos subidos que muestran el funcionamiento básico de QDXO‑Orchestrator.  
+- Video demostrativo 1: [Ver demo en YouTube](https://youtube.com/shorts/g9L2vYZCJSg?si=01pnct4cBBD6wJHa)  
+- Video demostrativo 2: [Ver demo en YouTube](https://youtube.com/shorts/SEGUNDO_ENLACE_DEMO)  
+- Capturas de pantalla incluidas en la carpeta `/assets/demo`.
+
+### EN
+The project already includes uploaded demos showcasing the basic functionality of QDXO‑Orchestrator.  
+- Demo video 1: [Watch demo on YouTube](https://youtube.com/shorts/g9L2vYZCJSg?si=01pnct4cBBD6wJHa)  
+- 
+- Screenshots available in the `/assets/demo` folder.
+## 📄 Licencia y Créditos / License & Credits
+
+### ES
+Este proyecto se distribuye bajo la licencia **MIT**, lo que permite su uso, modificación y distribución con fines personales y comerciales, siempre que se mantenga la atribución correspondiente.  
+
+**Créditos:**  
+- Proyecto desarrollado por Roni Zapata Vidal.  
+- Inspirado en aplicaciones médicas y blockchain.  
+- Agradecimientos a la comunidad open‑source y colaboradores que apoyaron en pruebas y demos.  
+
+### EN
+This project is released under the **MIT License**, allowing usage, modification, and distribution for personal and commercial purposes, provided proper attribution is maintained.  
+
+**Credits:**  
+- Project developed by Roni Zapata Vidal.  
+- Inspired by medical and blockchain applications.  
+- Special thanks to the open‑source community and contributors who supported testing and demos.
+
 ---
 
 ## Instalación / Installation
