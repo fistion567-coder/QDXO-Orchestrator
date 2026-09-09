@@ -49,6 +49,39 @@ QDXO Orchestrator is a blockchain research and development project focused on no
   - Marketing: 20–30%  
   - Reserves: 10–20%
 
+## 🔒 Flujo de Pagos y Blindaje Legal — QDXO Orchestrator  
+### 🇪🇸 Español
+
+El sistema **QDXO Orchestrator** garantiza que los laboratorios y farmacias nunca se vean afectados por la volatilidad del token $QDXO  
+El flujo de pagos se realiza mediante **pasarelas Fiat (USD/EUR/CNY)** y conversión interna a **stablecoins (USDC/EURC)**, asegurando costos mínimos y estables.  
+El token $QDXO actúa como capa de liquidez invisible dentro del software, mientras los clientes operan únicamente con moneda tradicional.  
+
+**Mecanismos integrados:**
+- Conversión automática de $QDXO a stablecoin.  
+- Liquidación en fiat local (USD/EUR/CLP).  
+- Contratos B2B con precios fijos en moneda estable.  
+- Reserva de liquidez y cobertura (hedging) automática.  
+- Cumplimiento normativo con estándares HIPAA y GDPR.  
+
+Este diseño convierte a **QDXO Orchestrator** en un **middleware financiero y legal** que protege datos sensibles y elimina la exposición a la volatilidad cripto, ofreciendo un entorno B2B seguro y regulado.
+
+---
+
+### 🇬🇧 English
+
+The **QDXO Orchestrator** system ensures that laboratories and pharmacies are never affected by $QDXO token volatility.  
+Payments flow through **Fiat Gateways (USD/EUR/CNY)** and internal conversion to **stablecoins (USDC/EURC)**, keeping operational costs minimal and stable.  
+The $QDXO token functions as an invisible liquidity layer within the software, while clients interact only with traditional currency.  
+
+**Integrated mechanisms:**
+- Automatic conversion from $QDX to stablecoin.  
+- Settlement in local fiat (USD/EUR/CLP).  
+- Fixed‑price B2B contracts in stable currency.  
+- Liquidity reserve and automatic hedging.  
+- Compliance with HIPAA and GDPR standards.  
+
+This architecture turns **QDXO Orchestrator** into a **financial and legal middleware** that protects sensitive data and shields clients from crypto volatility, creating a secure and compliant B2B environment.
+
 ## ⚙️ Instalación / Installation
 
 ### ES
